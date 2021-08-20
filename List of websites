@@ -8,6 +8,9 @@
     </head>
     <h1>My first page.</h1>
     <img src="https://avatars.githubusercontent.com/u/58358925?v=4">
+    <ol>
+      <li>github.com</li>
+      <li>Spotify</li>
 
 Hello there, awesome person!
   </body>
